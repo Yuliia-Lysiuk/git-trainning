@@ -1,0 +1,23 @@
+{
+  "name": "train",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yuliia-Lysiuk/git-trainning.git"
+  },
+  "author": "Julia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yuliia-Lysiuk/git-trainning/issues"
+  },
+  "homepage": "https://github.com/Yuliia-Lysiuk/git-trainning#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
